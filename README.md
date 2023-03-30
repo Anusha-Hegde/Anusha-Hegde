@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anusha-Hegde
+- 👋 Hi, I’m Anusha Hegde
 - 👀 I love algorithms and problem solving
-- 🌱 I’m currently working at Dell
+- 🌱 I’m currently working at [fabric.inc](https://fabric.inc/)
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
